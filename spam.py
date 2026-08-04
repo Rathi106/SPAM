@@ -3,7 +3,7 @@ import pyautogui
 import time
 
 # 1. Configuration
-MESSAGE = "ALL THE BEST MBAT VAI.....BYIEEEE"  # Put your message here
+MESSAGE = "All the best MOHOBBAT VAI.....BYIEEEE"  # Put your message here
 COUNT = 10           # Number of times to send it
 DELAY = 0.6           # Delay in seconds between messages (do NOT set to 0 or you'll get banned)
 
