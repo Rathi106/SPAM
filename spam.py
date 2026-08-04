@@ -22,5 +22,3 @@ for _ in range(COUNT):
     time.sleep(DELAY)
 
 print("Done! Mission accomplished.")
-changed?
-ummmmm
